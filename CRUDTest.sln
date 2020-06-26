@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CRUDTest", "CRUDTest\CRUDTest.pyproj", "{53ED39F3-964B-495D-A16E-F04943EA76E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53ED39F3-964B-495D-A16E-F04943EA76E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53ED39F3-964B-495D-A16E-F04943EA76E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72436724-2F9F-4E41-B02C-07C23B3E4B00}
+	EndGlobalSection
+EndGlobal
